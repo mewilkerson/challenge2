@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: Lato, Arial, sans-serif;
+}
+
+header {
+  background-color: #D5D9E0;
+  border-bottom: 3px solid #CBD0D6;
+  font-family: Lato, Arial, sans-serif;
+  margin: 0;
+  height: 100px;
+  position: relative;
+  margin-top: -20px;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: 44px;
+}
+
+.inputs {
+  margin-top: 50px;
+}
+
+.inputs p {
+  margin-left: 25px;
+  margin-bottom: 30px;
+  font-size: 22px;
+}
+
+.input-title {
+  width: 200px;
+  margin: 10px 0 10px 20px;
+  padding-bottom: 20px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.actions {
+  margin: 50px 0 0 30px;
+  min-height: 40px;
+}
+
+.items {
+  margin: 50px 0 0 30px;
+  min-height: 100px;
+}
